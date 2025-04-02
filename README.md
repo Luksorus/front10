@@ -7,4 +7,5 @@
 npm install
 node server.js
 ```
+2. Перейдите по ссылке http://localhost:3000
 
